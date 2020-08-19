@@ -1,0 +1,2 @@
+INSERT INTO `employee` VALUES
+(1,'otts1','otts1@gmail.com','Sr. Software Eng','Software','Full Stack Developer','2020-01-13 00:00:00','2020-01-13 00:00:00','Y','2020-01-13 00:00:00','2020-01-13 00:00:00');
