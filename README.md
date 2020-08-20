@@ -30,7 +30,7 @@ $ cd SimpleGrudEmployeeDemo <Enter>
 
 To deploy in **localhost** environment:
 ```
-$ (Optional) bash deploy.bash localhost <Enter>
+$ bash deploy.bash localhost <Enter>
 $ ./gradlew build <Enter>
 ```
 (Optional) To deploy in **google cloud** environment:
@@ -55,7 +55,9 @@ When the application is running, type the following URL in a browser:
 
 localhost:  http://localhost:8080/employee/api/swagger-ui.html
 
-The swagger page should appear.
+The swagger page should appear as below:
+
+<img src="src/docs/empSwagger.png" alt="EventLive Architecture" style="float: left; margin-right: 10px;" />
 
 --- Enjoy to play with the endpoints ---:
 

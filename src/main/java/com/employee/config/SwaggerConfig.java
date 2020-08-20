@@ -28,10 +28,10 @@ public class SwaggerConfig {
 
     private ApiInfo apiInfo() {
         return new ApiInfo(
-                "Company's Name",
+                "REST API For Employee Demo",
                 "REST API service.",
                 "1.0", "",
-                new Contact("Employee", "", ""),
-                "All rights reserved.", "",  Collections.emptyList());
+                new Contact("Ott Sathngam", "", "ott.sathngam@gmail.com"),
+                "© 2020 Ott Sathngam. All rights reserved.", "",  Collections.emptyList());
     }
 }
